@@ -7,7 +7,7 @@
 ### 🚀 Sobre mim
 
 - 📚 Atualmente aprendendo **Python** e **HTML**
-- 💡 Projetos atuais: [Aulas de Python](https://github.com/sarahsilva248/Aulas-de-python) e [Guardiões da Fauna](https://github.com/sarahsilva248/Guardi-es-da-Fauna)[cite: 1]
+- 💡 Projetos atuais: [Guardiões da Fauna](https://github.com/sarahsilva248/Guardi-es-da-Fauna)
 - 🎯 Objetivo: Desenvolver minhas habilidades em programação e criar jogos e projetos legais
 
 ---
